@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamb taking of the woolf; or, the general charge or articles of high treason against six great traitors, and wolves of this commonwealth. By Tho: Elsliot, Esq. Esquire at Arms and conq [sic] of the Gent. of the long robe. Whereunto is annexed, his appeal against the injustice of some members of the Committee of Indempnity.</title>
+            <author>Elslyott, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 57KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84396</idno><idno type="EEBO-CITATION">99865105</idno>
+  <idno type="VID">117342</idno>
+  <idno type="EEBO-PROQUEST">2240903941</idno>
+  
+            <idno type="STC">Wing E640</idno>
+            <idno type="STC">Thomason E651_16</idno>
+            <idno type="STC">ESTC R205860</idno>
+            <idno type="PROQUEST">99865105</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865105e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117342)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E651[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamb taking of the woolf; or, the general charge or articles of high treason against six great traitors, and wolves of this commonwealth. By Tho: Elsliot, Esq. Esquire at Arms and conq [sic] of the Gent. of the long robe. Whereunto is annexed, his appeal against the injustice of some members of the Committee of Indempnity.</title>
+                  <author>Elslyott, Thomas.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the year,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "January. 3 1651." the "2" in the date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>"The crossing of the proverbe" has continuous pagination and caption title on page 19.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117342:1"/>
+            <p>THE LAMB TAKING OF THE WOOLF; OR, THE GENERAL CHARGE or Articles of high treason against six <hi>great Traitors,</hi> and <hi>Wolves</hi> of this <hi>Commonwealth.</hi>
+            </p>
+            <p>BY <hi>Tho: Elsliot,</hi>
+               <choice>
+                  <abbr>Esq.</abbr>
+                  <expan>Esquire</expan>
+               </choice> Esquire at Arms and <choice>
+                  <abbr>Conq</abbr>
+                  <expan>Conqueror</expan>
+               </choice> of the <choice>
+                  <abbr>Gent.</abbr>
+                  <expan>Gentlemen</expan>
+               </choice> of the <hi>long robe.</hi>
+            </p>
+            <p>Whereunto is annexed, His Appeal against the Injustice of some Members of the Committee of Indempnity.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the year 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="charge">
+            <pb facs="tcp:117342:2"/>
+            <pb n="1" facs="tcp:117342:2"/>
+            <div type="articles">
+               <head>To the Honorable Mr. Justice ROLLE, Chief Justice of the Upper Bench, before the KEEPERS of the LIBERTIES of ENGLAND by Authority of Parliament, and the rest of the Reverend JUDGES of the same Bench.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Just, True, and perfect Charge and Remon<g ref="char:EOLhyphen"/>strance of <hi>Thomas Elsliott</hi> Esquire; <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice> at <hi>Arms,</hi> Conqueror of the Gentlemen of the <hi>long Robe,</hi> now or late <hi>Sathan</hi> of this Commonwealth by Gods pro<g ref="char:EOLhyphen"/>vidence his innocency and sufferings, and your Honors Ju<g ref="char:EOLhyphen"/>stice by way of Articles in general against the persons hereaf<g ref="char:EOLhyphen"/>ter named, as well on his own behalf, being a Freeborn per<g ref="char:EOLhyphen"/>son of this Commonwealth and Nation; and on the behalf of the said Keepers, and of every Freeborn person of this Com<g ref="char:EOLhyphen"/>monwealth and Nation, as also on the behalf of the Army, Raised and established by Authority of Parliament, for the defence thereof, and the said Keepers now under the Com<g ref="char:EOLhyphen"/>mand of <hi>Oliver Cromwel</hi> Esquire, Captain-General of all the <hi>English</hi> Force, and Lord Governor of <hi>Ireland.</hi>
+               </p>
+               <p>The persons which the Esquire <hi>Elslyot</hi> nameth to your ho<g ref="char:EOLhyphen"/>nours Bench, bee <hi>John Glyn</hi> Esquire, late high Steward of <hi>Westminster,</hi> and late Member of the honorable Parliament
+<pb n="4" facs="tcp:117342:3"/> of <hi>England,</hi> and late Recorder of <hi>London,</hi> and now Sergeant at Law. <hi>Edmond Prideaux</hi> Esquire, late one of the Keepers of the Great Seal of <hi>England,</hi> and now, or late Member of Par<g ref="char:EOLhyphen"/>liament and Counsellor of State, and Attorney Generall for the State of the Commonwealth of <hi>England,</hi> and Postmaster-General by Usurpation and Monopoly. <hi>Thomas Twisden</hi> Esquire, now, or late Recorder of <hi>Maidston</hi> in <hi>Kent,</hi> and <hi>William Wyld</hi> Esquire now or late of the middle Temple <hi>London,</hi> all of them gentlemen of the Long Robe, and <hi>Gerrard Angious</hi> Esquire, called the Lord <hi>Angiers</hi> of <hi>Ireland;</hi> and <hi>George Broom,</hi>
+                  <choice>
+                     <abbr>gent.</abbr>
+                     <expan>Gentleman</expan>
+                  </choice> now or late an Attorney of this honora<g ref="char:EOLhyphen"/>ble Court.</p>
+               <p>And the said Esquire <hi>Elslyot</hi> Remonstrateth unto your ho<g ref="char:EOLhyphen"/>nours and Bench, that whereas the Law of th<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Nation is a Law sacred, and profitable, and reasonable, as being grounded upon the Law of Almighty God, rendring every man his own impartially, and never disagreeing from Reason, justified and approved in all Ages, by the sage and prudent Judges, held by the Common people in great estemation, and reverence for the certainty and infallibility thereof, being decored with all Lawfull Usages, Customs and prescriptions, and upon ambi<g ref="char:EOLhyphen"/>guities and enormities, conting nt evermore, reduced and bounded to and within Statutes, by the wisdoms of our Pro<g ref="char:EOLhyphen"/>genitors in Parliament by Acts, which did teach every man his dutie to God and his Prince; and now to the State, as al<g ref="char:EOLhyphen"/>so to his neighbour, to the great honor of God, glory of this Nation, and the Common Vicinity.</p>
+               <p>And the said Esquire <hi>Elslyot</hi> further Remonstrateth unto your honours and Bench, that whereas by the Laws and Sta<g ref="char:EOLhyphen"/>tutes of this Nation, it is not unknown to your Lordship and Bench, That all ravenous, noysom, and pestilent beasts of the Commonwealth, as Wolves, Foxes, and such like, were utterly to be destroyed and rooted out of the same, together with the Vermin thereof, to the end that neither the Lands not the Sheep of this Commonwealth might be hurt or destroyed, but increase and multiplie to the benefit and common Utility of the Staple Commodity of this Nation; it being Wool for which the Nation hath been and is to this day so much ho<g ref="char:EOLhyphen"/>noured
+<pb n="5" facs="tcp:117342:3"/> throughout the whole world; and thereby the wise <hi>opifex rerum</hi> was pleased to grace this Nation, and signifie to forrain Nations, That the <hi>Engl<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sh</hi> Nation were a Wise and In<g ref="char:EOLhyphen"/>genuous People, and had such a Law Established amongst them, as no other Nation had (being the common Laws which are commonly and equally good to every person living in the same Nation, neither sparing the greater for his great<g ref="char:EOLhyphen"/>ness and power, nor yet dispising or disprotecting the poor &amp; innocent how mean soever, but that Justice that was equally communicated to each, as an Embleme to the great Justitier <hi>Jehovah.</hi>
+               </p>
+               <p>And therefore the said Esquire <hi>Eslyot</hi> by way of Article and Charge against the said <hi>John Glyn, Edmond Prideaux,</hi> and <hi>Thomas Twisden</hi> doth say and accuse, and will aver, justi<g ref="char:EOLhyphen"/>fie and prove, in his several capacities, and all the capacities a<g ref="char:EOLhyphen"/>bove mentioned, unto your honour and Bench, and that with hazard of life, or such other punishments as your honor and Bench shall inflict, in case he falsly accuse the said persons that they &amp; every of them in their several capacities above named, be guilty of high Treason, and be Traitors and Enemies to this Commonwealth, taking the Ingagement most Traiterously, in labouring and indeavoring to destroy and subvert the Funda<g ref="char:EOLhyphen"/>mental and common Laws of this Commonwealth by Inju<g ref="char:EOLhyphen"/>stice. by their secret counsels and publique actions against the Keepeas, <hi>&amp;c.</hi> The said Esquire <hi>Elslyot,</hi> a Free born person of this Nation, and divers other Free born persons of this Na<g ref="char:EOLhyphen"/>tion, and have several times most traiterously conspired toge<g ref="char:EOLhyphen"/>ther to destroy the Army raised by the Authority aforesaid, by their Machinations and nequitious counsels: And that they, and every of them bee guilty of several murders and fel<g ref="char:EOLhyphen"/>lonies perpetrated and committed against the known Laws and Statutes of this Nation: And that they and every of them be Perjured persons, Bribers, Extortioners, Ambodexters, Chea<g ref="char:EOLhyphen"/>ters, Oppressors, and Deluders of the Free born Persons of this Nation; and they and each of them being Ministers of Justice, and having taken an Oath to administer Justice to the People of this Commonwealth; but breaking their Trust repo<g ref="char:EOLhyphen"/>sed in them, be guilty of a Premunire, being evil Beasts and ra<g ref="char:EOLhyphen"/>venous
+<pb n="4" facs="tcp:117342:4"/> Wolves of this Commonwealth, and that each of them being Gentlemen of the Long Robe, have committed the said offences wilfully and maliciously since the sitting of this pre<g ref="char:EOLhyphen"/>sent Parliament. And the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elslyot</hi> doth likewise ac<g ref="char:EOLhyphen"/>cuse, charge, and will prove that the said <hi>William Wylde, George Broome,</hi> and <hi>Gerard Angiers,</hi> be guilty of high Trea<g ref="char:EOLhyphen"/>son, and be Traitors and Enemies to the Commonwealth and Army, for all the Offences aforesaid, and in manner and form aforesaid; save that the said <hi>Wylde</hi> and <hi>Broom</hi> be not guilty of murder, and save that <hi>Gerard Angiers</hi> is not guilty of mur<g ref="char:EOLhyphen"/>der, bribery, extortioning and ambodextory, nor is guilty of a premunire, as the rest five be in their capacities, And therfore the said Esquire <hi>Elslyot</hi> in his several capacities doth pray ad<g ref="char:EOLhyphen"/>visement of your honor and Bench, and that the said Traitors may speedily be put to Caption, and to be proceeded against as Traitors according to the Laws and Statutes of this Nation, and that this <hi>Overant</hi> may be admitted to Counsel, Learned in the Laws of this Nation, to assist him in the drawing up of the said Traitors Charges particularly.</p>
+               <trailer>This is a true Copie of the Record delivered in open Court at the upper Bench Bar unto Mr <hi>Andrew Broughton,</hi> chief Clerk of the <hi>Capital,</hi> upon <date>
+                     <hi>Friday</hi> the 28. of <hi>No<g ref="char:EOLhyphen"/>vemb.</hi> 1651. being the last of <hi>Michaelmas</hi> Term last,</date> to remain upon Record to future Ages; The true <hi>Du<g ref="char:EOLhyphen"/>plicate</hi> whereof was delivered upon the <hi>Munday</hi> fol<g ref="char:EOLhyphen"/>lowing, unto the Judge Advocate, to be communicated to his Excellency and Army.</trailer>
+               <byline>By THO. ELSLYOT, Ar. Ar. <choice>
+                     <abbr>Conq;</abbr>
+                     <expan>Conqueror</expan>
+                  </choice>
+               </byline>
+            </div>
+            <div type="articles">
+               <pb n="5" facs="tcp:117342:4"/>
+               <head>To the Honourable M. <hi>Justice Roll,</hi> Lord Chief Justice of the Ʋpper Bench, before the Keepers of the Liberties of <hi>England</hi> by Autho<g ref="char:EOLhyphen"/>rity of Parliament, and the rest of the Reverend Judges of the same Bench.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>RTICLES particular exhibited by <hi>Thomas El<g ref="char:EOLhyphen"/>sliot</hi> Esquire, Esquire at Arms, Conquerour of the Gentleman of the long robe, now or late <hi>Sathan</hi> of this present Commonwealth, by Gods Providence his innocency, and sufferings, and your Honours Justice in pursuit of his Accusation, Charge, and Remonstrance by way of Article general exhibited in open Court upon <hi>Friday</hi> the 28 of <hi>November</hi> 1651. against <hi>John Glyn</hi> Esquire, late Steward of <hi>Westminster,</hi> and late Member of the Ho<g ref="char:EOLhyphen"/>nourable Parliament of <hi>England,</hi> and late Recorder of <hi>London,</hi> and now Sergeant at Law, and <hi>Edmond Prideaux</hi> Esquire, late one of the Kee<g ref="char:EOLhyphen"/>pers of the Great Seal of <hi>England,</hi> and now, or late Member of Par<g ref="char:EOLhyphen"/>liament, and Councellor of State, and Attorney General for the State of the Commmonwealth of <hi>England,</hi> and Postmaster General by U<g ref="char:EOLhyphen"/>surpation and Monopoly; <hi>Thomas Twisdon</hi> Esquire, now, or late Recor<g ref="char:EOLhyphen"/>der of <hi>Maidston</hi> in <hi>Kent,</hi> and <hi>William Wild,</hi> now, or late of the Middle Temple <hi>London,</hi> all of them Gentlemen of the Long Robe, and <hi>Gerard Angiers</hi> Esquire, called the Lord <hi>Angiers</hi> of <hi>Ireland,</hi> and <hi>George Broom</hi>
+                  <choice>
+                     <abbr>Gent.</abbr>
+                     <expan>Gentleman</expan>
+                  </choice> now, or late an Atturny of this honorable Court for their several Treasons and other offences by them perpetrated and committed since the sitting of This present Parliament in their several capacities men<g ref="char:EOLhyphen"/>tioned generally in the said Esquire <hi>Elsliots</hi> general Articles by him charged against them in his several capacities, as well on the behalf of himselfe being a free born person of this Commonwealth, and Nation, and on the behalf of the said Keepers, &amp;c. and of every free born person of this Commonwealth and Nation, as also on the behalf of the Army raised and established by Authority of Parliament, for the defence thereof, and the said Keepers, now under the command of <hi>Oli<g ref="char:EOLhyphen"/>ver Cromwel</hi> Esquire, Captain General of all the English Force, and Lord Governour of <hi>Ireland.</hi>
+               </p>
+               <p n="1">
+                  <hi>IMprimis,</hi> the said Esquire <hi>Elsliot</hi> doth Articulate and say, and will justifie, aver and prove, That all the before named persons, and every of them in their several capacities, and that under the pains and penalties laid down in his general Article, be guilty of high Trea<g ref="char:EOLhyphen"/>son, and Enemies, and Traitors to the Honourable Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and have laboured and endeavoured to destroy and subvert by injustice the Fundamental and Common Laws of the same; and ha<g ref="char:EOLhyphen"/>ving taken the Engagement, be Traitors and Enemies to this Common wealth, and the Army raised by the Authority of Parliament, for that They and every of Them since the Battle of <hi>Edgehill,</hi> which was upon the 23 of <hi>Octob.</hi> 1643. and ever since the late Tyrant <hi>Charls Stuart</hi> the
+<pb n="8" facs="tcp:117342:5"/> elder sometimes King of This Nation, until the 3. of <hi>Sep.</hi> 1651. have most Traiterously conspired together and endeavoured to destroy the Parliament and Army, by assisting the late Tyrant, his evil Councellors and Complices, with Hors, Mony or Arms, to arm Papists, Malignants, Delinquents, and other evil affected persons in a hostile manner to de<g ref="char:EOLhyphen"/>stroy the Parliament and Army, and their friends, and assistants, and o<g ref="char:EOLhyphen"/>therwise with their pernicious councels and secret intelligences from time to time given to the common Enemy and his confederats.</p>
+               <p n="2">
+                  <hi>Secondly,</hi> That the said <hi>Glyn</hi> and <hi>Prideaux</hi> two of the said Traitors, being both of Them Members of the Parliam. with their complices, as yet unknown to the said <choice>
+                     <abbr>Esq.</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot,</hi> but with the advice of the other 4 before named Traitors, yet (but second brothers, and men of mean estate) and on purpose to advance Themselves by rapine and unjust gain, did in pursuance of Their foresaid Traiterous design, write let<g ref="char:EOLhyphen"/>ters to Their elder brothers living in <hi>Somersetshire</hi> and <hi>Wales,</hi> being men of some Fortune and Command in their Countries, and did en<g ref="char:EOLhyphen"/>courage Them to raise and take Arms, and enter into open hostility against the Parliament, Army, and Commonwealth, which was accor<g ref="char:EOLhyphen"/>dingly done by the power and countenance of the Two before named Traitors, being assured of impunity, or little or no punishment That should befal Them in case the late Tyrant &amp; his parties did not prevail.</p>
+               <p n="3">
+                  <hi>Thirdly,</hi> That the 2 last named Traitors, with Their complices, as yet unknown to the said <choice>
+                     <abbr>Esq.</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot,</hi> but with the advice of the other four before named Traitors, did from time to time ever since, both in the L. Gen. <hi>Essex,</hi> the L. <hi>Fairfax,</hi> and this present Generals time (notwithstand<g ref="char:EOLhyphen"/>ing several great sums of mony have been raised upon the free born persons of this Nation for the use of the Army and the Soldiery there<g ref="char:EOLhyphen"/>of, yet have They by Their machinations, and most nequicious coun<g ref="char:EOLhyphen"/>cels, obstructed and diverted the payment thereof to the several Ge<g ref="char:EOLhyphen"/>nerals and soldiery, insomuch That many a soldier who had done faith<g ref="char:EOLhyphen"/>ful and good service in the simplicity of his mind for the justness of the Parliaments cause, glory of God, and honour of the Nation, and Com<g ref="char:EOLhyphen"/>monwealth, have perished for want of food, or his pay for to buy it, to the great dishonour of God, and shame to the Parliament and Nation; and all this was done by the said Traitors purposely, wittingly, and wilfully, to discourage the Army, and Parliament, and soldiers, to the end that the Enemy and his party might prevail.</p>
+               <p n="4">
+                  <hi>Fourthly,</hi> That the said two traitors last named, with their complices, as yet un<g ref="char:EOLhyphen"/>known unto the said <choice>
+                     <abbr>Esq.</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot,</hi> but with the advice of the four before named traitors, in further pursuit of their traiterous design, after the said <hi>Glyn</hi> was e<g ref="char:EOLhyphen"/>lected and sworn Recorder of the City of <hi>London,</hi> did labour, seduce, and per<g ref="char:EOLhyphen"/>swade the Lord Maior, Alderman, and Citizens of <hi>London,</hi> from time to time, and at all times, during the time of his Recordership, to alienate and estrange their hearts, affections, purses, and assistances from the Parliament and Army, upon all necessitous and emergent occasions, upon the several contingences of the war, and did much vilifie and dishonour the publick Faith of the Parliament and Nation, insomuch that the Honourable Parliament of <hi>England,</hi> upon great exigencies of affairs, were many times necessitated to borrow mony of the Citizens upon disho<g ref="char:EOLhyphen"/>nourable tearms.</p>
+               <pb n="9" facs="tcp:117342:5"/>
+               <p n="5">Fiftly, That the said two Traitors last named, with their com<g ref="char:EOLhyphen"/>plices, unknown to the said Esquire <hi>Elsliot;</hi> with the advice of the four traitors before named, further in pursuit of traiterous designs, did upon the 20. day of <hi>April</hi> 1639. or thereabouts, falsly imprison, and cause the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot</hi> (always a servant, and a well affected person to the Parliament and Army, and a free<g ref="char:EOLhyphen"/>born person of this Common-wealth) in the Lobby at the Parli<g ref="char:EOLhyphen"/>ament house door, to be arrested by colour of warrant, directed to one <hi>John Drayton</hi> Barber, then a Constable of <hi>Westminster</hi> liberties, under <hi>Glins</hi> hand, as Recorder of <hi>London,</hi> for suppositi<g ref="char:EOLhyphen"/>on of speaking of treason; and to be long deteined prisoner without Bail or Mainprise, for no other cause, but for advan<g ref="char:EOLhyphen"/>cing of the honour of the Parliament and their then Generall; and in saying, that the late Tyrant claimed the Crown and suc<g ref="char:EOLhyphen"/>cessive dominion of the nation, to be his inheritance from <hi>Hen<g ref="char:EOLhyphen"/>ry Tudor,</hi> called <hi>Henry</hi> the seventh, whose Grandfather was <hi>Oven Tudor</hi> gentleman-usher to <hi>Henry</hi> the sixth his wife; which all men that have read the Chronicles know to be true, on pur<g ref="char:EOLhyphen"/>pose to discourage <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot</hi> from serving of the Parliament and Army, with his life, fortune, and good affections.</p>
+               <p n="6">Sixthly, That the two traitors last named, with their com<g ref="char:EOLhyphen"/>plices, unknown unto the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot,</hi> with the advice of the before named four traitors, further in pursuit of their traiterous design, did at the time when the late Tyrant was prisoner at <hi>Holmby-House;</hi> that is to say, in the month of April 1647. traiterously labour, practise and perswade divers Honourable members of this present Parliament, to disband the Armie raised for the defence of the Parliament and Nation, before the peace of the Nation was setled, to the great hazzard, perill and dan<g ref="char:EOLhyphen"/>ger of Parliament, Nation and Army, and to the utter ruine and destruction of the lawes of this nation, and every free-born person thereof.</p>
+               <p n="7">Seventhly, That the said two traitors last named, with their complices, unknown unto the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot,</hi> with advice of the before named four traitors, in further pursuit of their traite<g ref="char:EOLhyphen"/>rous design, did afterwards in the month of July 1647. follow<g ref="char:EOLhyphen"/>ing, joyning with the Apostate Lords of the dissolved house of Lords, most traiterously conspire, practise and endeavour, to
+<pb n="10" facs="tcp:117342:6"/> raise a new Army in the City of <hi>London,</hi> to oppose the Parlia<g ref="char:EOLhyphen"/>ments Army, for coming to petition the Honourable Parliament, and did in further pursuite thereof, create, constitute and make Colonell <hi>Massie</hi> and Colonell <hi>Pointz,</hi> two arch enemies of this Common-wealth, to be Commanders, without orders from the Lord Generall <hi>Fairefax</hi> then the Parliaments Generall: And did at the same time, countenance, abett and maintain Colo<g ref="char:EOLhyphen"/>nell <hi>Pointz</hi> in a certain murder, by him perpetrated and done at <hi>Guildhall London,</hi> in the presence of the said <hi>Glyn</hi> then Re<g ref="char:EOLhyphen"/>corder, the then Lord Mayor and Aldermen, upon the Per<g ref="char:EOLhyphen"/>son of one <hi>Worlie,</hi> alias <hi>Worthey,</hi> Taylor, a Citizen and free-born Perfon of <hi>England,</hi> who came with divers others, humbly to petition the Mayor and Court of Aldermen, that there might bee no warre levyed against the Parliaments Army, and suffered the said <hi>Pointz</hi> to escape unquestioned, unapprehended, and un<g ref="char:EOLhyphen"/>punished. And at the same time with menaces, they caused <hi>William Lenthall</hi>
+                  <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice> the Honourable Speaker of the Paliament of <hi>England,</hi> to leave the Chair in the House, and to flye to the Parliaments Army for protection and succour, to the great ha<g ref="char:EOLhyphen"/>zard of the dissolution of the Parliament of <hi>England,</hi> and utter subversion of the Laws and fundamentall constitutions of this nation.</p>
+               <p n="8">Eigthtly, That the said two traitors last named, with their complices, unknown unto the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot,</hi> with the advice of the four traitors before named, in further persuite of their de-design, did afterwards, that is to say, in the month of December 1647. after the late Tyrant had escaped from <hi>Hampton-Court,</hi> and was surprised by Colonell <hi>Robert Hamond</hi> in the Isle of <hi>Wight,</hi> did traiterously practice, labour, and indeavour, still to destroy the said Parliament and Army, by colour of disband<g ref="char:EOLhyphen"/>ing the Supernumeraries, but especially, his Excellency the Lord <hi>Fairefax</hi> Life-guard, on purpose to discontent them and their friends in the Army; and in the mean time, they sent their e<g ref="char:EOLhyphen"/>missiaries into <hi>Scotland</hi> to Duke <hi>Hamilton,</hi> to make ready an Army against the Spring of the year following, to be at their devotion; which accordingly they did effect and bring to passe. And not so contented, they privately corrupted the said Colonel <hi>Hamond,</hi> with large rewards and allowance of 40 <abbr>l.</abbr>
+                  <hi>per diem,</hi>
+                  <pb n="11" facs="tcp:117342:6"/> out of the Common-wealths mony, to be also at their devotion. Albeit he was intrusted by the Armie, with the custody of the person of the Tyrant, yet did they prevaile in their designe, and drew the said Colonel <hi>Hamond</hi> from his fidelity to the Generall <hi>Fairefax</hi> and his Leivtenant General the now Generall, to the said Colonel <hi>Hamonds</hi> perpetual shame. And thereupon, in further pursuit of their traiterous designes, they with the asistance of <hi>Thomas Twisden,</hi> then Recorder of <hi>Maidston,</hi> but with the ad<g ref="char:EOLhyphen"/>vice of the three before named traitours, caused the late uprore in <hi>Kent,</hi> and that effusion of blood at <hi>Maidstone</hi> at the battle neer the Bridge, on or about <hi>May</hi> 1648. And not therewith con<g ref="char:EOLhyphen"/>tent, they practized much about the same time with the late Lord <hi>Capel,</hi> Lord <hi>Goring</hi> and Earle of <hi>Holland,</hi> and their complices, to take <hi>Colchester</hi> in <hi>Essex</hi> from the Parliaments obedience, on pur<g ref="char:EOLhyphen"/>pose to retard and keep the Parliaments General the Lord <hi>Fair<g ref="char:EOLhyphen"/>fax</hi> from the asistance of his Leivtenant General <hi>Cromwel</hi> now Lord General, who they had imbroyled in <hi>Wales</hi> with <hi>Poyer, Powel,</hi> and other the Parliaments enemies, untill the <hi>Scotish</hi> Army could be brought into this Nation to invade it; which was ac<g ref="char:EOLhyphen"/>cordingly effected by the traiterous designes of the said traitours, to the great hazard of the destruction of the Parliament and Ar<g ref="char:EOLhyphen"/>my, and utter subversion of the laws of this Nation, and the ruine of every free-born English-man.</p>
+               <p n="9">Ninthly, That the three Traitours last named, with their com<g ref="char:EOLhyphen"/>plices, unknown unto the said Esquire <hi>Elsliot,</hi> with the advice of the three other before named, in further pursuite of their de<g ref="char:EOLhyphen"/>signe, did afterwards, that is to say, in the month of <hi>August</hi> 1647, and after the defeat of the <hi>Scotish</hi>-Army, under the command of Duke <hi>Hamilton,</hi> who had traiterously invaded this Nation, by their traiterous counsels, and most inequicious machinacions; being sensible of their treasons, and for fear of vengeance from Heaven, did seduce, draw, and perswade di<g ref="char:EOLhyphen"/>vers Members of the Honourable House of Commons of the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> together with the Apostate Lords of the Lords House in Parliament, now dissolved by divine providence, for their unjustice to consent to a dishonourable treaty with the late Tyrant, then their prisoner in the Castle of <hi>Carisbrooke,</hi> on purpose to gaine an Act of Oblivion; and so consequently a ge<g ref="char:EOLhyphen"/>neral pardon for themselves, for their several treasons perpetra<g ref="char:EOLhyphen"/>ted
+<pb n="12" facs="tcp:117342:7"/> and committed as aforesaid, to the great dishonour of <hi>Je<g ref="char:EOLhyphen"/>hovah,</hi> the great God of Heaven and Earth, who had all the way so gloriously appeared for the Parliament of <hi>England</hi> and their just cause, and for the Army, in giving them so many victories o<g ref="char:EOLhyphen"/>ver his and their Enemies; out of which Treaty the Army was totally secluded, as if they had neither been free-born persons of this Nation or Common-wealth, nor yet had any share in the victories, or in the great things that the Lord of Hosts had done for them; At which Treaty it happened the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot</hi> to be present, sore against his will, then a prisoner under Colonel <hi>Hamond,</hi> but most falsly imprisoned, with the late Tyrant in <hi>Carisbrooke</hi> Castle, but having liberty of the Isle at the time of the Treaty; and perceiving that the said Treaty would be distru<g ref="char:EOLhyphen"/>ctive to the Parliaments Army and Common-wealth, and to eve<g ref="char:EOLhyphen"/>rie free-born person of this Nation; the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot</hi> utte<g ref="char:EOLhyphen"/>ring of his dislike thereof to divers souldiers under the command of Colonel <hi>Hamond,</hi> he was forthwith convented before Leiv<g ref="char:EOLhyphen"/>tenant Colonel <hi>Sanderson,</hi> Colonel <hi>Hamonds</hi> Leivtenant Col<g ref="char:EOLhyphen"/>lonel, who sore rebuked him for his dislike, and threatned him to loose the benefit of his freedome of the Isle, if he held not his peace. Neverthelesse the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot,</hi> did not conceal the great inconveniency to the souldiers and others, if the same Trea<g ref="char:EOLhyphen"/>ty should take effect, whereupon the Tyrant was again reassum<g ref="char:EOLhyphen"/>ed out of the hands and custody of Colonel <hi>Hamond,</hi> and his hy<g ref="char:EOLhyphen"/>pocrisie to the Army being discovered, he was dismissed of the government of the Isle; and being chashired the Army, he was committed prisoner to <hi>Windsor</hi> Castle, where he is, or ought to be a prisoner during his life, without the mercy of the Army, for breaking of his trust with them; but it was a just judgment of Heaven upon the man, for a certain murder which was commit<g ref="char:EOLhyphen"/>ted wilfully by him at <hi>Gloucester,</hi> upon the body of one <hi>Gray,</hi> a gallant gentleman of this Nation, as the <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot</hi> hath heard; for which the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot</hi> hath not as yet heard that he hath been legally tryed or acquitted for the same, to the great disho<g ref="char:EOLhyphen"/>nour of God and the laws of this Nation, both legal &amp; military.</p>
+               <p n="10">Tenthly, That the three last named Traitours, with their Com<g ref="char:EOLhyphen"/>plices, unknown unto the said Esquire <hi>Elsliot,</hi> with the publick advice of the three other Traitours before named, in further pursuit of their malice and envie to the Army, and the Members
+<pb n="13" facs="tcp:117342:7"/> thereof, seeing their traiterous they designe could not effect, after the publick Declaration of the Grand Remonstrance of his late Excellency the Lord <hi>Fairfax,</hi> and the generall officers made at Saint <hi>Albans,</hi> and after the decapitation of the late Tyrant, their great Idoll, and after the making and publishing of the Act of Parliament, dated the 30<seg rend="sup">th</seg> of <hi>January,</hi> 1648. for Alteration of style, <hi>Testes,</hi> and Returns of Writs, prescribed by the said Act, for that the said Esquire <hi>Elsliot</hi> had indeavoured to put the same in execution, to the end, the Common Law of this Nation might not be destroyed, but that the Souldiers of the Army might have the benefit thereof, as well as any other free-born person of this Nation, they the said traitours altoge<g ref="char:EOLhyphen"/>ther did upon the 4<seg rend="sup">th</seg> of <hi>February</hi> 1648, most maliciously con<g ref="char:EOLhyphen"/>spire, plot, and endeavour, to vilifie the Authority of Parliament, and stop the free Current of the Common Laws of this Nation, and would not permit the Sealers of green wax office to seal my Writ for <hi>Robert Kindersly</hi>
+                  <choice>
+                     <abbr>Gent.</abbr>
+                     <expan>Gentleman</expan>
+                  </choice> a Souldier and Member of the Army, against one <hi>Carter</hi> a Justice of Peace of <hi>Middlesex,</hi> who had falsely imprisoned the said <hi>Kindersly,</hi> unlesse it were made in the Name of the late Tyrant, and not in the Name of the Keepers of the Liberties of <hi>England</hi> by Autho<g ref="char:EOLhyphen"/>rity of Parliament, and the like offence they committed against the Parliament, and the Keepers, &amp;c. and the Common Laws of this Nation, and would not permit to be made processe of the Law against the said <hi>Gerard Angiers</hi> at the suit of <hi>William Pain,</hi> brother to <hi>Thomas Pain,</hi> then a Member of the Army, for a just debt of 60 <abbr>l</abbr> upon bond, but because the said Esquire <hi>Elsliot,</hi> al<g ref="char:EOLhyphen"/>wayes a Servant and Wel-wisher to the Parliament, and Army, did indeavour to put in execution the said Act of Parliament on the behalfe of the Members of the Army, and to maintain the common law of this Nation, all the before-named traitours did conspire to take away the lives of the said Esquire <hi>Elsliot,</hi> and di<g ref="char:EOLhyphen"/>vers Souldiers of the Army, who sought but for Justice, and to maintain the Authority of Parliament, the supream Judicature of this nation. And by their false accusation caused the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot,</hi> and souldry, to be tryed for their lives at a Court Mar<g ref="char:EOLhyphen"/>shal, where they were acquitted; but the said traytors, not ther<g ref="char:EOLhyphen"/>with content, but still further labouring to destroy the funda<g ref="char:EOLhyphen"/>mentall laws of this nation, they caused to be brought in the upper
+<pb n="14" facs="tcp:117342:8"/> Bench, at the said <hi>Gerards</hi> suit, a fained action against the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot</hi> and one <hi>Brown</hi> a Bayliffe, by false names and titles, and without his ever being arrested, appearance, or pleading to issue, they recorded a verdict by default, as they pretend, and damages against the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot</hi> for 1000 <abbr>l.</abbr> damages, of which treason and unjustice against the law of the nation, the like was never heard tell of in any age, and did lately endeavour to trap the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot</hi> to execution for the said damages of 1000 <abbr>l.</abbr> and costs, and all for endeavouring to put in execution the Act of Parliament, for making of the first writs of the common laws of this nation in the Keepers, &amp;c. names, and their behalfe, and to gain the souldiers, and members of the Army justice ac<g ref="char:EOLhyphen"/>cording to the known lawes of this nation, and the Parliaments Act, the said 30. day of January 1648.</p>
+               <p n="11">Eleventhly, That all the six before named Traytours, for envy and malice to the now Lord Generall <hi>Cromwell,</hi> then Lieute<g ref="char:EOLhyphen"/>nant Generall of this present Army, and Lord Governour of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and after his Excellency had accepted the Parliaments Commission for scourging of the <hi>Irish</hi> Rebels, and after the great victories it pleased the living God, the Lord of Hosts to give his Excellency and the Parliaments Army, upon there lan<g ref="char:EOLhyphen"/>ding in that nation, both after his defeat of the arch traitour, and Apostate the Earle <hi>Ormond</hi>'s Forces, at <hi>Dublin</hi> in <hi>Ireland,</hi> and after the storm of <hi>Drogheda,</hi> which was about the month of September 1649. the traitour <hi>Prideaux</hi> being Postmaster-gene<g ref="char:EOLhyphen"/>rall by usurpation and monopoly, was pleased, but most traite<g ref="char:EOLhyphen"/>rously, to keep any intelligence of the news, and good things that God had done for our brethren in that nation, from the people of this nation, to the intent to rob God of his glory, and to eclipse the noble Governour of the honour due to a faithfull Generall, and to make the Common-wealth to despair of their interest in that nation; and the traitour <hi>Gerard Angiers</hi> was pleased to speak merrily, but traiterously at his table, that there were many Irish bogs in that kingdom, which his Excellency and his horse had not yet sounded the bottome, but if ever <hi>Cromwell</hi> returned alive from <hi>Ireland,</hi> hee would desire to live no lon<g ref="char:EOLhyphen"/>ger: and all the before named traytors frequently gave it out every where in their ordinary discourse, that the Parliament had sent him on an errand, but did never intend that hee should return, on purpose to asperse the Ho<g ref="char:EOLhyphen"/>nourable Parliament of <hi>England</hi> with injustice, and to alienate the hearts of every free born person of <hi>England</hi> from their obedience to the Parliament for injustice.</p>
+               <pb n="15" facs="tcp:117342:8"/>
+               <p n="12">12. That all the before named traitors, of their forethought malice, and rancour of spirit to the Parliament, Armie, and Common-wealth, and to their wel-wishers and friends, have from time to time, since the beginning of this present Parl. until the 3<seg rend="sup">d</seg> of Sept. 1651. last past, at several times, to their uttermost endeavours, under pretence of service to the Parl. and State, endeavoured and laboured to murder and destroy by false accusations, and false aspersions, and otherwise by false imprisonment, the free-born persons of this Nation, and none but such as have sincerely out of a good conscience behaved themselves manfully and cheerfully for the good of the Common<g ref="char:EOLhyphen"/>wealth; as namely, Lieut. Col. <hi>John Lilburn,</hi> who the Traitor <hi>Prideaux</hi> falsly accused and arraigned for his life, under pretence of high Treason, albeit he was honourably acquitted upon a fair tryal, and albeit the said Traitor knew that he hath suffered more persecutions for the testimony of a good conscience, then any man in the Nation: As also one <hi>Philip Chetwyn,</hi> a Common-coun<g ref="char:EOLhyphen"/>cel man in <hi>Cheapside,</hi> who hath always been faithful to the Parliam. Armie, and stood for the general of the Nation, and Citie of which he is a member; yet did the said two Traitors, <hi>Glyn</hi> and <hi>Prideaux,</hi> by conspiracie and unjustice practised with one <hi>Thomas Foot</hi> a Grocer, late Mayor of <hi>London,</hi> cause the said <hi>Chetwyn</hi> to be long time disgracefully imprisoned in the prison of <hi>Newgate,</hi> and afterwards removed to <hi>Warwick Castle,</hi> and long kept in prison, and to be denied the benefit of a <hi>Habeas Corpus,</hi> against the known Laws and Statutes of this Nation. And the said Traitors have also scurrilously derided the Do<g ref="char:EOLhyphen"/>ctrine of M. <hi>Hugh Peters,</hi> a godly Minister of <hi>Jesus Christ,</hi> and an assistant to the General and Armie, by incouraging the souldiers in the Armie to their dutie to God, the Parliament, and Common-wealth.</p>
+               <p n="13">13. That the three of the first named Traitors, still continuing their fore<g ref="char:EOLhyphen"/>mentioned diabolical intentions and traiterous designes, with the advice of the three other traitors last named, and their complices, unknown to the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot,</hi> did in the month of June, 1650. after the now Lord Generals re<g ref="char:EOLhyphen"/>turn with many Victories out of <hi>Ireland,</hi> secretly practice, consult, and conspire together with divers citizens of the Citie of <hi>London,</hi> and other evil affected per<g ref="char:EOLhyphen"/>sons of this <hi>Common-wealth,</hi> to destroy the members of the honorable Parl. from electing the L. General to be Capt. General of the English forces; or at any such hand to invade <hi>Scotland</hi> or the common enemies of this Nation, un<g ref="char:EOLhyphen"/>der pretence that they were our Brethren, and that we had taken a National covenant together; which was to no other purpose, but that our enemies the Scots should again the second time have invaded this nation, or else to retard time that our enemies the Scots might the better arm themselves to destroy the Parliaments forces: and yet for all that, the said traitors and their confederates held correspondency with one <hi>Bunce,</hi> somtimes an Alderman of <hi>London,</hi> and with <hi>Massy</hi> and others, arch enemies to this present Com. wealth; and albet, they knew that divers forreign nations had contributed Auxiliacions to <hi>Charls Stu<g ref="char:EOLhyphen"/>art</hi> the younger, and had agreed with the Scotish nation to crown him their King, on purpose to disturb the peace of this Nation: And the said Traitors and their complices did from time to time privately assist their <hi>Brethren of Scotland,</hi> as they termed them, with money, horse and arms out of the <hi>Low Countries:</hi> And after the Battel of <hi>Dunbar</hi> in <hi>Sept.</hi> 1650 following, in stead of rejoycing, did speak scornfully and contemptuously of the English Army, and gave out from
+<pb n="16" facs="tcp:117342:9"/> time to time, that they hoped to see their friend <hi>Massy,</hi> with <hi>Charls Stuart</hi> the vanquished K. of Scots, whom then called <hi>Charls the second,</hi> to be here at <hi>London</hi> ere long, with many vilifying speeches uttered against the Parliaments Armie under the now Generals command. And according to the speeches of the said traitors, our enemies the Scots did indeed invade this Land in <hi>August</hi> 1651 last, and were most of them destroyed, or taken prisoners at the battell at <hi>Worcester,</hi> fought the third of September last past, by Gods providence, and to his Glory, and the perpetuall honour of this present nation and Common<g ref="char:EOLhyphen"/>wealth; albeit <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot</hi> could not as yet hear, that the <hi>Kentish</hi> men did cheerfully assist the Army at the battell, as other countries and their forces did, all occasioned by the treacheries of the traitours aforesaid. By all which it is evident to the Common-wealth, and to the freeborn persons thereof▪ that the beforenamed traitors did begin their treasons on or about, the 23. of Octob. 1643 in pursuite of their traiterous designe, and have ever since continued the same, until the 3 of September last.</p>
+               <p n="14">14. That the 3 first named traitours, and every of them, to be murderers and felons, and guilty of the blood of <hi>Worley alias Worthey</hi> aforesaid, a Ci<g ref="char:EOLhyphen"/>tizen and freeborn person of this nation, slaine by the said hand of Colonell <hi>Pointz,</hi> in aiding, counselling, and abetting of him to commit the same in the Month of July 1647, as before hath been related: and be also guil<g ref="char:EOLhyphen"/>ty of imbezelling of a Record of an Act of Parliament, made in the later end of Queen <hi>Elizabeths</hi> Reign, between <hi>Gabriel Pointz</hi> and <hi>James Mor<g ref="char:EOLhyphen"/>ris</hi> Esquires, upon joyning of their estates together, touching certaine lands in <hi>Onger North-okendon,</hi> and elsewhere, lying in <hi>Essex</hi> and <hi>London,</hi> to defeit the lawfull heirs of the said <hi>Gabriel</hi> and <hi>James,</hi> with the assistance of <hi>John Brown</hi> late Clarke of the Lords house in Parliament; and be also guilty of murder of the blood of one <hi>Thomas Hobson,</hi> late of <hi>North-somercotes</hi> in the County of <hi>Lincoln,</hi> murdered by the hands of Sir <hi>Gervase Scrope</hi> K<seg rend="sup">nt</seg>, and <hi>Geo. Porter</hi>
+                  <choice>
+                     <abbr>Gent.</abbr>
+                     <expan>Gentleman</expan>
+                  </choice> two arch malignants and their servants, but by the said trai<g ref="char:EOLhyphen"/>terous unlawfull command, in the month of September last past. And be all three of them guilty of a <hi>premunire,</hi> for that in their severall capacities they and each of them have taken an oath to do justice to the people of this nation, but have not: And first the said <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice>
+                  <hi>Elsliot</hi> saith, the traitor <hi>Prideaux</hi> in his capacity, as he was one of the keepers of the great seal of England, erected and confirmed by Authority of Parliament, and taking of an oath, well, and truely to behave himselfe in his place, and to administer Justice impartially to every free borne person of this nation without corruption and bribery, did pervert the due course of Justice in a certain cause then and yet depen<g ref="char:EOLhyphen"/>ding in the high court of Chancery, between one <hi>Wood</hi> plantif, and <hi>John La<g ref="char:EOLhyphen"/>mott</hi> and other defendants, after severall decrees rendred in the said Court; and in thirty five severall other causes then depending before him, being cor<g ref="char:EOLhyphen"/>rupted by briberie, and unlawfull gain, and so is also guilty of perjury, and is also guilty of Ambodextory as he is a <choice>
+                     <abbr>Gent.</abbr>
+                     <expan>Gentleman</expan>
+                  </choice> of the long Robe, in taking of fees of both sides in a certaine cause late depending in chancery the last <hi>Hillary</hi> Term, between <hi>Mary Ward</hi> Widow plantife, and Sir <hi>Brian Palmes</hi> K<seg rend="sup">nt</seg> defendant, an Arch Malignant and a sequesterd delinquent of this Com<g ref="char:EOLhyphen"/>monwealth; yet did he forsake his own client the widow, who reteined him, and took fees of the defendant, to oppresse the widow and innocent.</p>
+               <pb n="17" facs="tcp:117342:9"/>
+               <p>And the said Traitor <hi>Prideaux,</hi> hath laboured to destroy the Fundamental Laws of this Nation, several ways by Inju<g ref="char:EOLhyphen"/>stice, and his pernicious Counsels, and in especiall by his Wri<g ref="char:EOLhyphen"/>ting of Letters to the now Justices of the Peace of <hi>Essex,</hi> to keep the said Esquire <hi>Elslyot</hi> four months in Irons, being a Fteeborn person of this Nation, and unconvicted as yet for any crime whatsoever; and as he was a Councellor of State, the better to collour his malifactions, he procured a Letter from one <hi>John Bradshaw,</hi> who they affirmed to be the Lord Presidents of the Counsel of State, directed to the Sheriff of <hi>Es<g ref="char:EOLhyphen"/>sex,</hi> to keep the said Esquire <hi>Elslyot</hi> in Irons without Bail or Mainprize; and when this last <hi>Michaelmas</hi> Term there was a Motion at the upper Bench Barr, for a <hi>Habeas corpus,</hi> the said Traitor <hi>Prideaux,</hi> together with the other 4 Traitors, <hi>Glyn, Twisden, Wyld,</hi> strongly opposed it; moved against it, contra<g ref="char:EOLhyphen"/>ry to an Act of Parliament, made since the sitting of this pre<g ref="char:EOLhyphen"/>sent Parliament, and other the known Laws of this Nation, albeit the same Writ was granted, and the Esquire <hi>Elslyot</hi> was brought to the Barr, and acquitted by Gods Providence, his own innocency and sufferings, the Justice of this Honora<g ref="char:EOLhyphen"/>ble Court, and their fained Mittimus was damned and de<g ref="char:EOLhyphen"/>clared void and insufficient in Law, together with the feign<g ref="char:EOLhyphen"/>ed Letter, supposed to be written from the Lord President of the Counsel of State, and besides the unjustice done unto the said Esquire <hi>Elslyot,</hi> he hath done great unjustice unto <hi>John Morris, alias Pointz,</hi> in a cause depending in the upper Bench, and several other Courts of Justice, between the said <hi>Morris</hi> and Sir <hi>Thomas Littleton</hi> and others, touching the said <hi>Pointz</hi> Estate in <hi>Essex</hi> and <hi>London:</hi> And that the said Traitor <hi>Prideaux,</hi> together with all other before mentioned Traitors, be guilty of the unparraled piece of Injustice done unto the said Esquire <hi>Elslyot</hi> at the Committee of Indemp<g ref="char:EOLhyphen"/>nitie, in the Month of <hi>March,</hi> 1649. when Col. <hi>Hamond</hi> was indempnified contrary to the intention of the Honorable Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> after he had most unjustly imprisoned the said Esquire <hi>Elslyot</hi> in the Isle of <hi>Wight,</hi> and the said <choice>
+                     <abbr>Esq.</abbr>
+                     <expan>Esquire</expan>
+                  </choice> was forced to procure him to be outlawed for his non ap<g ref="char:EOLhyphen"/>pearance at Law, and yet it was ordred that the said Esquire
+<pb n="18" facs="tcp:117342:10"/> should reverse his Outlawry at his own Suit, and pay Hamond and his Complices above 60 <abbr>l</abbr>, or else be imprisoned, under which the said Esquire hath languished this year and a half and abov, contrary to all Law, Equity or Reason, And that all the said Traitors, except Gerard Angiers, be guilty of that notorius Juggle with the general and ho<g ref="char:EOLhyphen"/>nest Member of the Parliament and Commonwealth, who do not desire to imprison the Members of <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esus Christ; the poor prisoners in every prison of the Commonwealth, who be not <hi>bona fide,</hi> able to pay their debts, but inlarge them according to the true intent of the Act of Parliament, whether they were imprisoned at the time of the ma<g ref="char:EOLhyphen"/>king of the Act, or since, if <hi>bona fide,</hi> they be poor and unable, and yet no benefit redowneth unto the poor prisoners by the said Act, in re<g ref="char:EOLhyphen"/>gard of the intricateness and many hinges it depends upon, as it is Penned by the said Traitors and their Complices, as yet unknown to the said Esquire, and that the said <hi>Glyn, Twisden,</hi> and <hi>Wyld,</hi> be guilty of the Ambodexteries charged against the Traitors, <hi>Predeaux,</hi> in <hi>Mor<g ref="char:EOLhyphen"/>ris,</hi> alias <hi>Poyntz</hi>'s case; but the said <hi>Broom</hi> and <hi>Wyld,</hi> be not guilty of murder, nor yet <hi>Gerard Angiers</hi> is guilty of murder, bribery, extorting, and Ambodextery, of a premunire; but the whole six Traitors be guilty of Treason, and the other offences charged and articled against them, in manner and form aforesaid: And therefore the said Esquire <hi>Elslyot</hi> saving unto himself in his several capacities, liberty to prefer any other particulars Charge against the say<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Traitors, as he shall re<g ref="char:EOLhyphen"/>ceive intelligence from the freeborn persons or this Nation: He as formerly, doth humbly pray advisement of your Honor and Bench, in what manner the said Traitors shall be proceeded against accor<g ref="char:EOLhyphen"/>ding to the Laws and Statutes of this Nation, and that they may be speedily put to Caption, and this <hi>overant</hi> may be admitted to Coun<g ref="char:EOLhyphen"/>sell Learned in the Laws of this Nation, to assist him in drawing up their Indictments or Informations, and future Charges, and to man<g ref="char:EOLhyphen"/>nage the Evidence against them, according to Justice.</p>
+               <trailer>This is a true Copie of the Record delivered to Mr, <hi>Andrew Broughton</hi> Chief Clerk of the Capital Office, upon <date>
+                     <hi>Munday</hi> the 2 of <hi>December,</hi> 1651.</date> there to remain upon Record to future Ages, by special directions, the true Duplicate whereof was delivered the same night unto the Judge Advocate to be communicated to his Excellency and Army,</trailer>
+               <byline>By <hi>Tho. Elslyot,</hi> Ar. Ar. <choice>
+                     <abbr>Conq.</abbr>
+                     <expan>Conqueror</expan>
+                  </choice>
+               </byline>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="appeal">
+            <pb n="19" facs="tcp:117342:10"/>
+            <head>THE Crossing of the Proverbe; OR RIGHT overcoming of MJGHT BY The Appeal of <hi>Thomas Elliot</hi>
+               <choice>
+                  <abbr>Esq;</abbr>
+                  <expan>Esquire</expan>
+               </choice> Esquire at Armes, and Conqueror, <hi>&amp;c.</hi> AGAINST The Injustice of som Members of the Committee of Indempnity.</head>
+            <byline>By <hi>Thomas Elliot,</hi> Ar. Ar. <choice>
+                  <abbr>Conq;</abbr>
+                  <expan>Conqueror</expan>
+               </choice>
+            </byline>
+            <head>To the Honorable Speaker and Parliament of the <hi>Com<g ref="char:EOLhyphen"/>mon-wealth</hi> of ENGLAND; the Supreme Judi<g ref="char:EOLhyphen"/>cature of the <hi>English Nation.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE true just, and humble Remonstrance, Ap<g ref="char:EOLhyphen"/>peal, and Petition, of <hi>Thomas Elsliot,</hi>
+               <choice>
+                  <abbr>Esq;</abbr>
+                  <expan>Esquire</expan>
+               </choice> Esquire at Armes; Conqueror of the Gen<g ref="char:EOLhyphen"/>tlemen of the long Robe, now, or late Sathan of this present Common wealth, by Gods Providence, his innocency and sufferings, and by the justice of the honourable Lord chief Justice, and the rest of the reverend Judges of the upper Bench, in <hi>West<g ref="char:EOLhyphen"/>minster,</hi> before the Keepers of the Liberties of <hi>England</hi> by Au<g ref="char:EOLhyphen"/>thority
+<pb n="20" facs="tcp:117342:11"/> of Parliament, from &amp; against injustice against the per<g ref="char:EOLhyphen"/>sons hereafter named, as well on his own behalf, being a free-born person of this Common-wealth and Nation, and on the behalf of the said Keepers, and of every free-born person of the Common-wealth and Nation, by them oppressed: as also on the behalf of the Army raised and established by Authority of Parliament, for the defence thereof, and the said Keepers, <hi>&amp;c.</hi> (now under the Command of <hi>Oliver Cromwel,</hi> Espuire, Captain General of all the English Force, and Lord Governor of <hi>Ireland.</hi>
+            </p>
+            <p>The persons the said Esquire <hi>Elsliot</hi> nameth unto your Ho<g ref="char:EOLhyphen"/>nor, and Parliament, be <hi>Francis Allen</hi> Goldsmith of <hi>London,</hi> and <hi>Daniel Blagrave</hi> Gentleman, now or late members of the honorable Parliament, whereby unjustice with divers evil affected persons, to the honorable Parliament of <hi>England</hi> and Army, raised for their defence; as namely, one <hi>Edmond Pri<g ref="char:EOLhyphen"/>deaux,</hi> Esquire, and <hi>John Glyn,</hi> Esquire, two rotten &amp; corrupt Members of the Parliament, and charged in high treason be<g ref="char:EOLhyphen"/>fore the Keep. of the Liber. of <hi>England,</hi> by Authority of Parli<g ref="char:EOLhyphen"/>ament, in the upper Bench the last day of the last <hi>Miehacl<g ref="char:EOLhyphen"/>mas</hi> Terme, as may appear by the Records of that Court remai<g ref="char:EOLhyphen"/>nining with the chief Clark of the Capital Office of that Court sometimes called the Crown Office, and with divers o<g ref="char:EOLhyphen"/>thers, as yet unknown to the said Esquire <hi>Elsliot,</hi> have bro<g ref="char:EOLhyphen"/>ken the trust and faith reposed in them, by the honorable Parliament, by committing of unjustice: and persuing maintaining of the same at the Honourable Commit<g ref="char:EOLhyphen"/>tee of Indemnity, in a certain cause between Colonel <hi>Ro<g ref="char:EOLhyphen"/>bert Hamond,</hi> and the said Esquire <hi>Elliot</hi> (as is said by them) and between one Leiutenant Col. <hi>Langley,</hi> now, or late of <hi>Colchester,</hi> and one <hi>John Pureat</hi> (whereby they were intrusted to be Judges) in that they did indempnifie the said <hi>Hamond</hi> and <hi>Langley,</hi> and divers others, expresly against the severall Ordinances and Acts of Parliament that enabled them to bee Judges of the matters, and against the law of God, the Parlia<g ref="char:EOLhyphen"/>ments intentions, the known laws of this Nation, the law of Reason, Equity, or a good Conscience.</p>
+            <p>And the said <hi>
+                  <choice>
+                     <abbr>Esq;</abbr>
+                     <expan>Esquire</expan>
+                  </choice> Elsliot</hi> Remonstrateth unto your Honor
+<pb n="21" facs="tcp:117342:11"/> and Parliament, That the Parl. of <hi>England</hi> be of an ancient and vetust Constitution, and so sacred in all Ages, as being of the free Election of the people of this Nation, to doe Justice, and graced evermore with Divine providence, that not onely good Kings and Pr. of this Nation; but even tyrannical Kings, and all other Tyrants have bin forced to stoop to them, &amp; their Mem<g ref="char:EOLhyphen"/>bers, as a Committee from time to time sent forth by them to explore any matter, either as Judges or Explorers, to examin and Report to the House their Judgments; and Reports have bin so infallibly true, that never exceptions could bee taken at them, but upon their Returnes the House of Parliament ever<g ref="char:EOLhyphen"/>more approved of their Wisdoms, and so proceeded in a Parlia<g ref="char:EOLhyphen"/>mentory way to confirm their doings in a most decorous and orderly way of Justice; to the great Honor of Almighty God, the making and establishing of many a good and wholsom Law and Act of Parliament for the good of the people of this Na<g ref="char:EOLhyphen"/>tion, for the advancement of vertue, and suppressing of Vice; and for the punishment of the evill doers, and for the cherish<g ref="char:EOLhyphen"/>ing of the well-doers and preservers of the Lawes so made and constituted.</p>
+            <p>And the said Esquire <hi>Elsliot</hi> doth also remonstrate unto your Honor and Parliament, That whereas the Common Law of this Nation, is also a Law sacred, profitable, and reasonable, as being grounded upon the law of Almighty God, rendring every man his own impartially, and never disagreeing from reason justified and approved in all ages by the sage and pru<g ref="char:EOLhyphen"/>dent Judges of this Nation; of one of the Benches or High Courts of Justices of Pleas in <hi>Westminster-Hall,</hi> and illustrated daily by the Reports and Printed Opinions of the same Judges held by the Common-people in great estimation and reverence for the certainty and infallability thereof, being also decored with all Lawfull Vsages, Customs, and Prescriptions; And upon Ambiguities and Enormities contingent, evermore redu<g ref="char:EOLhyphen"/>ced and bounded to &amp; within Statutes, by the Wisdom of our Progenitors in Parliament by Acts, being a wise and Ingenious People (as a Hedg to fence it in from devouring and rooting up by the Ravenous and pestilent Beasts of this Comonwealth;
+<pb n="22" facs="tcp:117342:12"/> and to preserve it from the vermin thereof, which Law Common did teach every man his duty to God, and his Prince, and now to the Parliament and State, as also to his neighbours, unto the great Honour of God, the glory of this Nation, and common vicinity.</p>
+            <p>And the said <choice>
+                  <abbr>Esq.</abbr>
+                  <expan>Esquire</expan>
+               </choice>
+               <hi>Elsliot</hi> doth farther remonstrat unto your Honour and Parliament, that whereas in the time of this present Parliament, that never to be forgotten saying of <hi>John Pym</hi>
+               <choice>
+                  <abbr>Esq.</abbr>
+                  <expan>Esquire</expan>
+               </choice> a worthy Member of this Parliament, which was, that <hi>salus populi fuit seprema lex,</hi> in the great case betwixt him and the Arch Traitor the Earl of <hi>Strafford,</hi> the el<g ref="char:EOLhyphen"/>der, who died by Judgement of Parliament for labouring to destroy the Fundamental Laws of this Nation, being common and statutal, and to introduce, and bringing in an Arbitrary and Tyra<g ref="char:EOLhyphen"/>nical government upon the people of this Nation, the said <choice>
+                  <abbr>Esq.</abbr>
+                  <expan>Esquire</expan>
+               </choice>
+               <hi>Elsliot</hi> by way of Appeal doth charge the two <choice>
+                  <abbr>Gent.</abbr>
+                  <expan>Gentlemen</expan>
+               </choice> first before named, that they having broken the trust reposed in them by the Parlia<g ref="char:EOLhyphen"/>ment, have followed the footsteps of the said Earl, and much erred in their judgements, and by means thereof have not observed either the in<g ref="char:EOLhyphen"/>tention of the Honourable Parliament of <hi>England</hi> or else that resent and never to be forgotten tenet of this Parliament, so much approved of in Ma<g ref="char:EOLhyphen"/>ster <hi>Pyms</hi> time, but in disobedience to the power given to them at the said Committee, and in deri<g ref="char:EOLhyphen"/>sion of the Common Law of this Land have com<g ref="char:EOLhyphen"/>mitted and wilfully done unjustice in the cases a<g ref="char:EOLhyphen"/>foresaid and many others, as the said <choice>
+                  <abbr>Esq.</abbr>
+                  <expan>Esquire</expan>
+               </choice>
+               <hi>Elsliot</hi> hath heard, to the great dishonour of Almighty
+<pb n="23" facs="tcp:117342:12"/> God, and breach of trust to the Parliament, and abuse of the said <choice>
+                  <abbr>Esq.</abbr>
+                  <expan>Esquire</expan>
+               </choice>
+               <hi>Elsliot,</hi> and <hi>John Purcas</hi> free born persons of this Nation, and always servants, agents, and well-wishers to the Parliament and Commonwealth of <hi>England,</hi> as it is now establish<g ref="char:EOLhyphen"/>ed by Authority of Parliament and the peace of the Keepers of the Liberties thereof. For all which causes the said <choice>
+                  <abbr>Esq.</abbr>
+                  <expan>Esquire</expan>
+               </choice>
+               <hi>Elsliot</hi> in his several ca<g ref="char:EOLhyphen"/>pacities doth appeal unto your Honour and the Honourable Parliament of <hi>England,</hi> for Justice a<g ref="char:EOLhyphen"/>gainst their unjustice done at the said Committee, and doth humbly petition and pray, that his cause and the said <hi>Purcas</hi> cause may be publickly heard, reheard, and understood, by your Honour and Parliament at the Bar of the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> And that their false judgements in the said cases may be suspended from any execution, and that all their Orders and irregular proceedings in the said causes may bee forthwith certified be<g ref="char:EOLhyphen"/>fore your Honour and Parliament to be corrected and amended, and that Justice may be done ac<g ref="char:EOLhyphen"/>cording to your Honours Wisdoms; And that he and the said <hi>Purcas</hi> may be admitted to Councel learned in the Laws of this Nation, to plead their just cause of Appeal, before your Honour and Parliament; and that in the mean time the said Master <hi>Allen,</hi> and Master <hi>Blagrave,</hi> may bee suspended and exempted from doing any more, other, or farther injustice at the Honoura<g ref="char:EOLhyphen"/>ble Committee of Indemnity. And he the said <choice>
+                  <abbr>Esq.</abbr>
+                  <expan>Esquire</expan>
+               </choice>
+               <hi>Elsliot</hi> doth lastly, beseech your Honour and Parliament, that the power given to that Com<g ref="char:EOLhyphen"/>mittee, may be again reassumed into your Honors
+<pb n="24" facs="tcp:117342:13"/> and Parliaments own hands, and Judicature, for the good of all free born persons of this Com<g ref="char:EOLhyphen"/>monwealth and Nation, (Papists, Malignants, Delinquents, and evil affected persons to this Commonwealth, and Army only excepted.)</p>
+            <trailer>This is a true Copy of the first Appeal that ever was brought in England for unjustice done by some Members of Parliament to the free born persons of this Common-wealth at the Committee of Indempnity, and was de<g ref="char:EOLhyphen"/>livered to M. Speaker of Parliament to be solemnly read filed, and remain upon Record in the Parliament upon <date>Thursday the 12 of this instant <hi>December</hi> 1651</date> the duplicate whereof was sent to his Excellency the same day.</trailer>
+            <byline>By <hi>Tho. Elsliot, Ar. Ar. <choice>
+                     <abbr>Conq.</abbr>
+                     <expan>Conqueror</expan>
+                  </choice>
+               </hi>
+            </byline>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>P<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> 1. <hi>line</hi> 2. after ROOL, add Lord. <hi>p.</hi> 1. <hi>l.</hi> 9. after perfect, add accusa<g ref="char:EOLhyphen"/>tion. <hi>p.</hi> 1. <hi>l.</hi> 23. after the add said. <hi>p.</hi> 1. <hi>l.</hi> 24. after honors, add and, dele high. <hi>p.</hi> 4. <hi>l.</hi> 18. after Judges, add of this Nation, and illustrated daily by the Reports, and Printed Opinions of the same Judges, <hi>l.</hi> 34. for Lands, <hi>r.</hi> Lambs. <hi>p.</hi> 5. <hi>l.</hi> 2. after Nation, add with this favor above others. <hi>l.</hi> 11. add the true and just Judge of heaven and earth. <hi>l.</hi> 12. after Article, add ac<g ref="char:EOLhyphen"/>cusation. <hi>l.</hi> 14. after doth, add Article.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
